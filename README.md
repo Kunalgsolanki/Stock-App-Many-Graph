@@ -21,7 +21,7 @@ This project is a stock dashboard app that uses the [Finnhub API](https://finnhu
 ## Examples
 
 
-<img src="./src/assets/search.gif" />
+<img src="./public/kgs.gif" />
 
 
 
