@@ -1,4 +1,6 @@
 # Stock Dashboard App
+
+ Web site Link https://64739df2bf49b7628e3a6d9e--papaya-gecko-f889f3.netlify.app/
 This project is a stock dashboard app that uses the [Finnhub API](https://finnhub.io/)
 
 - 🔍 Search for a stock (e.g. AAPL, FB, GOOG)
@@ -18,26 +20,10 @@ This project is a stock dashboard app that uses the [Finnhub API](https://finnhu
 
 ## Examples
 
-### Search
+
 <img src="./src/assets/search.gif" />
 
-### Date Filter
-<img src="./src/assets/date-filter.gif" />
-
-### Select Theme
-<img src="./src/assets/theme.gif" />
 
 
-## Subsections
-If you are interested in following along this tutorial, here are the subsections (with links to the code for each part)
 
-| Branch                                                            	| Description                            	|
-|-------------------------------------------------------------------	|----------------------------------------	|
-| [Part 1](https://github.com/DLabbate/stock-dashboard/tree/part-1) 	| Introduction                           	|
-| [Part 2](https://github.com/DLabbate/stock-dashboard/tree/part-2) 	| Setup (TailwindCSS, Google Fonts, ...) 	|
-| [Part 3](https://github.com/DLabbate/stock-dashboard/tree/part-3) 	| Grid Layout                            	|
-| [Part 4](https://github.com/DLabbate/stock-dashboard/tree/part-4) 	| React Components & Styling             	|
-| [Part 5](https://github.com/DLabbate/stock-dashboard/tree/part-5) 	| Recharts (Plotting Data)               	|
-| [Part 6](https://github.com/DLabbate/stock-dashboard/tree/part-6) 	| Dark Mode (React Context)              	|
-| [Part 7](https://github.com/DLabbate/stock-dashboard/tree/part-7) 	| Fetching Data from REST API (Finnhub)  	|
-| [Part 8](https://github.com/DLabbate/stock-dashboard/tree/part-8) 	| Transitions & Animations               	|
+
