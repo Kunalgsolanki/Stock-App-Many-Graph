@@ -1,0 +1,13 @@
+.splash-screen {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .splash-image {
+    width: 500px; /* Adjust the width and height according to your image size */
+    height: 500px;
+  }
+  
+  
